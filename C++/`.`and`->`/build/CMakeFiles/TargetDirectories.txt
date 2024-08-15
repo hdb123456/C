@@ -1,0 +1,3 @@
+/home/mingze/Documents/Projects/test/build/CMakeFiles/test1.dir
+/home/mingze/Documents/Projects/test/build/CMakeFiles/edit_cache.dir
+/home/mingze/Documents/Projects/test/build/CMakeFiles/rebuild_cache.dir
